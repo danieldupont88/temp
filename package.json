@@ -1,0 +1,23 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldupont88/temp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieldupont88/temp/issues"
+  },
+  "homepage": "https://github.com/danieldupont88/temp#readme",
+  "dependencies": {
+    "ds18x20": "^0.2.0",
+    "gpio": "^0.2.10"
+  }
+}
