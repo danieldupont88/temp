@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/danieldupont88/temp#readme",
   "dependencies": {
-    "ds18x20": "^0.2.0",
-    "gpio": "^0.2.10"
+    "ds18x20": "latest",
+    "gpio": "latest",
+    "sandal": "latest"
   }
 }
